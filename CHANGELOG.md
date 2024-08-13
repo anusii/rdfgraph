@@ -1,3 +1,7 @@
+## 0.2.11
+
+- Fix multi-line parse issue
+
 ## 0.2.10
 
 - Support navigation in Graph
